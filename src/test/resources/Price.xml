@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <price id="1"	price_month="1"	 price_single="1" price_month_half="1" price_year="2" price_individual="1" price_other="2" />
+    <price id="2"	price_month="2"	 price_single="2" price_month_half="2" price_year="1" price_individual="2" price_other="1" />
+</dataset>

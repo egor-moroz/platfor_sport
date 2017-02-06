@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <category_group id="1" name="ct1" is_main="true"/>
+    <category_group id="2" name="ct2" is_main="true" />
+</dataset>
